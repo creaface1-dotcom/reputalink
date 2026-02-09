@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+.egg-info/
+
+# virtualenv
+venv/
+
+# Environment variables
+.env
+
+# Secrets
+.streamlit/secrets.toml
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Pytest
+.cache
